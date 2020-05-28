@@ -1,0 +1,116 @@
+H1 {
+color: navy;
+} 
+
+h3 {
+color: navy;
+} 
+
+.gfd {
+color: olive;
+font-size: 20px;
+text-indent: 90px;
+background-color: black;
+Width: 500px
+}
+
+.fd {
+color: 54805c;
+font-size: 20px;
+text-indent: 120px;
+background-color: edd272;
+Width: 500px;
+}
+
+.f {
+color: d49fb7;
+font-size: 20px;
+text-indent: 110px;
+background-color: 626842;
+Width: 500px;
+}
+
+.d {
+color: d19547;
+font-size: 20px;
+text-indent: 110px;
+background-color: 3c422d;
+Width: 500px;
+}
+
+.gf {
+color: b98b50;
+font-size: 20px;
+text-indent: 40px;
+background-color: 111f25;
+Width: 500px;
+}
+
+.gd {
+color: e4dbbe;
+font-size: 20px;
+text-indent: 65px;
+background-color: 84c3c3;
+Width: 500px;
+}
+
+.g {
+color: cfc48e;
+font-size: 20px;
+text-indent: 50px;
+background-color: 1d3c42;
+Width: 500px;
+}
+
+.poi {
+color: c89f10;
+font-size: 20px;
+text-indent: 50px;
+background-color: acc3d4;
+Width: 500px;
+}
+
+.pi {
+color: e1e336;
+font-size: 20px;
+text-indent: 50px;
+background-color: 0c1031;
+Width: 500px;
+}
+
+.po {
+color: 3dbebe;
+font-size: 20px;
+text-indent: 50px;
+background-color: e49231;
+Width: 500px;
+}
+
+.oi {
+color: f14f5f;
+font-size: 20px;
+text-indent: 50px;
+background-color: 062a43;
+Width: 500px;
+}
+
+.p {
+color: f8ef8f;
+font-size: 20px;
+text-indent: 120px;
+background-color: 262fa0;
+Width: 500px;
+}
+
+
+
+.menu ul {
+  list-style: none;
+  margin: 5px;
+  padding-left: 20px;
+  display: none;
+}
+
+.menu.open ul {
+  display: block;
+}
